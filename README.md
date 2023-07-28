@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nevindu12&label=Profile%20views&color=0e75b6&style=flat" alt="nevindu12" /> </p>
 
-- 🌱 I’m currently learning **React, NodeJS**
+- 🌱 I’m currently learning:- **React, NodeJS**
 
-- 💬 Ask me about **HTML, CSS, PHP, REACT, JS**
+- 💬 Ask me about:- **HTML, CSS, PHP, REACT, JS**
 
-- 📫 How to reach me **nilangithnevindu@gmail.com**
+- 📫 How to reach me:- **nilangithnevindu@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact:- **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
