@@ -1,4 +1,4 @@
-![MasterHead](https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Nevindu Nilangith</h1>
 <!-- <h3 align="center">A passionate frontend developer from Sri Lanka</h3> -->
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
