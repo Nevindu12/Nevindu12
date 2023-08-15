@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning :- **React, Express, NodeJS**
 
-- 💬 Ask me about :- **HTML, CSS, PHP, REACT, JS, NodeJS**
+- 💬 Ask me about:- **HTML, CSS, PHP, REACT, JS, NodeJS**
 
 - 📫 How to reach me :- **nilangithnevindu@gmail.com**
 
